@@ -26,7 +26,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system with a modern Str
 ## 🖼️ Screenshots
 
 ### Query Interface
-![Query Interface](lmg1.png)
+![Query Interface](img1.png)
 *Advanced query interface with multiple RAG modes and customizable options*
 
 ### Analytics Dashboard
